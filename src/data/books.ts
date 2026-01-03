@@ -23,8 +23,8 @@ export const books: Book[] = [
     publishYear: 2026,
     genre: 'Non-Fiction',
     buyLinks: {
-      Amazon : 'https://www.amazon.com/your-book-link-2',
-      Notionpress: 'https://notionpress.com/read/your-book-link-2',
+      Amazon : 'https://www.amazon.in/dp/B0GDT2C5WM',
+      Notionpress: 'https://notionpress.com/in/read/72-days',
       flipkart: 'https://www.flipkart.com/your-book-link-2',
     },
   },
