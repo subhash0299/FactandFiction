@@ -70,7 +70,7 @@ function App() {
               </div>
               <div>
                 <h1 className="text-xl font-bold bg-gradient-to-r from-emerald-600 to-blue-600 bg-clip-text text-transparent">
-                  Fact & Fiction
+                  My Book Store
                 </h1>
                 <p className="text-xs text-gray-500">Literary Collection</p>
               </div>
